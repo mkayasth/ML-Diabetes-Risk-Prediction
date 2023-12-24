@@ -1,7 +1,5 @@
 # Machine-Learning---Diabetes-Risk-Prediction
 
-1) Introduction and Data Source
-
 Diabetes is a chronic health condition that occurs when the blood glucose is too high. According to the CDC, diabetes is the 8th leading cause of death in the United States, and 1 in 5 of the adults with diabetes in the US do not even know that they have it. If unmanaged, diabetes can lead to various complications including heart disease and stroke, neuropathy, compromised immune system, and kidney damage.
 
 Our dataset comes from Kaggle (https://www.kaggle.com/datasets/prosperchuks/health-dataset/data), compiled from the Behavioral Risk Factor Surveillance System (BRFSS) 2015. BRFSS is a collaborative project between all the states in the United States and the Centers for Disease Control and Prevention (CDC) designed to measure behavioral risk factors for the adult population (aged 18 years of age and older) residing in the United States. Our dataset is a collection of 70,692 survey responses with 17 feature variables and 1 target variable.
