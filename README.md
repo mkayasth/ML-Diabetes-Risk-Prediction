@@ -45,7 +45,7 @@ Diabetes: 0 for no, 1 for yes.
 
 
 
-** Research Questions **
+<h3> Research Questions </h3>
 
 a) How do the factors interact with each other in influencing the likelihood of these health conditions?
 
